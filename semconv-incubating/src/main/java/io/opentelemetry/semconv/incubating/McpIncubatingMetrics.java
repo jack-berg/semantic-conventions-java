@@ -9,7 +9,6 @@ package io.opentelemetry.semconv.incubating;
 // buildscripts/templates/registry/incubating_java/IncubatingSemanticMetrics.java.j2
 @SuppressWarnings("unused")
 public final class McpIncubatingMetrics {
-
   /** Name of the {@code mcp.client.operation.duration} metric. */
   public static final String MCP_CLIENT_OPERATION_DURATION_NAME = "mcp.client.operation.duration";
 

@@ -45,12 +45,8 @@ public final class CpuIncubatingAttributes {
     /** Steal */
     public static final String STEAL = "steal";
 
-    /**
-     * Deprecated. Use {@code system} instead.
-     *
-     * @deprecated Replaced by {@code system}.
-     */
-    @Deprecated public static final String KERNEL = "kernel";
+    /** Kernel */
+    public static final String KERNEL = "kernel";
 
     private CpuModeIncubatingValues() {}
   }

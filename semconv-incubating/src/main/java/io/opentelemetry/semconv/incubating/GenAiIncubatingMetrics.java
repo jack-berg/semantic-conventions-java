@@ -9,7 +9,6 @@ package io.opentelemetry.semconv.incubating;
 // buildscripts/templates/registry/incubating_java/IncubatingSemanticMetrics.java.j2
 @SuppressWarnings("unused")
 public final class GenAiIncubatingMetrics {
-
   /** Name of the {@code gen_ai.client.operation.duration} metric. */
   public static final String GEN_AI_CLIENT_OPERATION_DURATION_NAME =
       "gen_ai.client.operation.duration";

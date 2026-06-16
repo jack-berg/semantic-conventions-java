@@ -63,9 +63,6 @@ public final class ProfileIncubatingAttributes {
     /** <a href="https://wikipedia.org/wiki/Rust_(programming_language)">Rust</a> */
     public static final String RUST = "rust";
 
-    /** <a href="https://en.wikipedia.org/wiki/LuaJIT">LuaJIT</a> */
-    public static final String LUAJIT = "luajit";
-
     private ProfileFrameTypeIncubatingValues() {}
   }
 
